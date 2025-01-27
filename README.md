@@ -22,4 +22,5 @@ print(arquivo.meter_serial)  # Saída: 00000000
 ```
 
 ✒️ Autores
+
 Bruno Oliveira
