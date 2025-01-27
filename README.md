@@ -2,6 +2,7 @@
 Conjunto de scripts python para leitura e interpretação de arquivos fk7.
 
 🎯 Objetivo
+
 Este projeto tem como objetivo facilitar a leitura e interpretação de arquivos fk7.
 Os scripts deste projeto interpretam o arquivo fk7 de acordo com o que é apresentado na norma ABNT NBR 14522.
 
@@ -16,7 +17,7 @@ caminho_do_arquivo = 'C:/caminho/do/arquivo'
 arquivo = FK7File(caminho_do_arquivo)
 
 # Imprime o número do medidor
-print(arquivo.meter_seriel)  # Saída: 00000000
+print(arquivo.meter_serial)  # Saída: 00000000
 
 ```
 
