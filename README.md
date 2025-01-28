@@ -8,6 +8,8 @@ Os scripts deste projeto interpretam o arquivo fk7 de acordo com o que é aprese
 
 🖥️ Exemplo de utilização
 
+Modo básico: Coloque o arquivo FK7Python.py no mesmo diretório do seu código, e importe conforme exemplo a seguir:
+
 ```python 
 
 from FK7Python import FK7File
